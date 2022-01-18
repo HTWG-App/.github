@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome · Willkommen 👋
 
-<!--
+🙋‍♀️ Das ist ein kleines Projekt, um zu sehen, wie eine Implementierung einer Web-App aussehen kann, und um diverse Technologien wie PHP oder Vue auszuprobieren. Die Organisation besteht aus zwei Haupt-Repositories: HTWG-App-Frontend und -Backend. Das Frontend ist in Vue.js und das Backend in PHP geschrieben.
 
-**Here are some ideas to get you started:**
+🌈 Wenn du etwas zum Code beitragen möchtest, lies dich in die entsprechenden READMEs der beiden Repositories ein.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🍿 Die App ist nicht offiziell. Es ist ein Experiment, um zu sehen, was alles möglich ist und inwieweit man bestimmte Interaktionen, wie dem Herunterladen der Immatrikulationsbescheinigung, automatisieren kann.
